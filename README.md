@@ -1,4 +1,4 @@
-# PolarPoint-BEV
+# CR-Driving
 This is the official pytorch implementation of CR-Driving.
 
 ![image](images/Framework.png)
@@ -22,10 +22,10 @@ cd ..
 Clone this repo and build the environment
 
 ```
-git clone https://github.com/lab-sun/PolarPoint-BEV.git
-cd PolarPoint-BEV
-conda env create -f environment.yml --name PolarPoint-BEV
-conda activate PolarPoint-BEV
+git clone https://github.com/liuly7002/CR-Driving.git
+cd CR-Driving
+conda env create -f environment.yml --name CR-Driving
+conda activate CR-Driving
 ```
 
 
