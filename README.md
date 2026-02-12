@@ -38,7 +38,7 @@ To train the XPlan network, please refers to [trainset](https://drive.google.com
 
 ## Pretrained weights：
 * Download the pretrained weights and then extract it in the file of `weight`
-* The link for pretrained weights is [weight](https://drive.google.com/file/d/1jKBGd5nwtHNjDoT114CoiO1lSBj6tds9/view?usp=sharing).
+* The link for pretrained weights is [weight](https://huggingface.co/liuleiustb/CR-Driving-Model).
 
 ## Evaluation
 The evaluation is performed in the Carla Simulator.
