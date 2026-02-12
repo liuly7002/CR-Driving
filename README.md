@@ -1,9 +1,9 @@
 # PolarPoint-BEV
-This is the official pytorch implementation of PolarPoint-BEV.
+This is the official pytorch implementation of CR-Driving.
 
-![image](images/network.png)
+![image](images/Framework.png)
 
-[![PolarPoint-BEV](https://res.cloudinary.com/marcomontalbano/image/upload/v1718086560/video_to_markdown/images/youtube--apkmM82N9Wo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=apkmM82N9Wo "PolarPoint-BEV")
+[![CR-Driving](https://www.youtube.com/watch?v=DtiPVAiVxDM&t=1s)](https://www.youtube.com/watch?v=apkmM82N9Wo "CR-Driving")
 
 ## Setup
 Download and setup CARLA 0.9.10.1 (from [TCP](https://github.com/OpenDriveLab/TCP))
