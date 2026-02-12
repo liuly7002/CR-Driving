@@ -1,0 +1,7 @@
+
+# weights
+*.ckpt
+*.pt
+*.pth
+*.zip
+PolarPointBEV_weights/
