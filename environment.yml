@@ -1,4 +1,4 @@
-name: PolarPoint
+name: CR-Driving
 channels:
   - pytorch
   - conda-forge
